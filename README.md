@@ -13,10 +13,6 @@ Then, edit the file `index.js` and change YOUR_ACCOUNT_USER_ID, YOUR_ACCOUNT_EMA
 
 Also, set the `__dirname` in both the `index.js` and `commands.js` files to the absolute directory which JamesBot is in.
 
-```
-node index.js
-```
-
 Then, to start the bot at any time, simply run:
 
 ```
