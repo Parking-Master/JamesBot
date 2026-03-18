@@ -26,3 +26,6 @@ Logged in
 Then it will log some live data later on.
 
 Note that JamesBot expects you are running Node.js v22 or higher.
+
+# License
+MIT
