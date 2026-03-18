@@ -2,8 +2,6 @@ const fs = require("fs");
 const cheerio = require("cheerio");
 const sandboxRun = require("./sandbox");
 
-__dirname = `/Users/XXX/JamesBot`;
-
 function getRandomArbitrary(min, max) {
   return Math.random() * (max - min) + min;
 }
